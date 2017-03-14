@@ -1,4 +1,4 @@
-package lee.Security;
+package lee2.Security;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
